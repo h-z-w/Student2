@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string-array name="clssmate">
+        <item>移动1811</item>
+        <item>移动1813</item>
+        <item>移动1823</item>
+        <item>软件1811</item>
+        <item>软件1813</item>
+        <item>软件1823</item>
+    </string-array>
+    <!--<string name="classmate_prompt">请选择班级</string>>-->
+</resources>

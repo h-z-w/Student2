@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:id="@+id/btn_name"
+    android:layout_weight="1"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:textSize="25sp"
+    android:gravity="center"
+    android:text="姓名"/>
+<TextView
+    android:id="@+id/btn_class"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text="班级"/>
+<TextView
+    android:id="@+id/btn_old"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text="年龄"/>
+</LinearLayout>

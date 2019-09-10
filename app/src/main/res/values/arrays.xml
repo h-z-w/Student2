@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classmate">
+    <item>移动1811</item>
+    <item>移动1813</item>
+    <item>移动1823</item>
+    <item>软件1811</item>
+    <item>软件1813</item>
+    <item>软件1823</item>
+</string-array>
+</resources>
